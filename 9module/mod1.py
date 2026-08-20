@@ -1,0 +1,13 @@
+def add(a,b):
+    return a + b
+
+def sub(a,b):
+    return a - b
+
+# mod1.py 출력문 추가
+print (add(1,4))
+print (sub(7,3))
+
+if __name__ == "__main__":
+    print (add(1,4))
+    print (sub(7,3))
